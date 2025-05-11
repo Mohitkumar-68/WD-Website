@@ -1,3 +1,7 @@
+CREATED BY:-
+JATIN KUMAR 12411097
+AND
+MOHIT KUMAR 12411104
 🏠 Home
 The Home section provides a brief overview of the website’s purpose. It displays a welcoming message informing users that the website offers the latest news and updates related to cricket matches.
 
